@@ -1,2 +1,6 @@
 <h1> thinh ra clip vao thu 2 </h1>
 <h2> sao khong tai duoc ve </2>
+body {
+        background-color: green;
+}
+
